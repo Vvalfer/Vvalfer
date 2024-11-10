@@ -27,6 +27,6 @@ Bienvenue sur mon espace GitHub ! Je suis étudiant en informatique à Paris, en
 ### 💬 Parlons-en !
 Vous pouvez me contacter pour des collaborations ou simplement discuter de développement XR, d'IA dans les jeux vidéo, ou de toute innovation technologique passionnante.
 
-[![Contact Me](https://img.shields.io/badge/Contactez_moi-LienIn-blue)](https://www.linkedin.com/in/louis-chevalier/)
+[![Contact Me](https://img.shields.io/badge/Contactez_moi-LienIn-blue)](https://www.linkedin.com/in/louis-chevalier-4986b9223/)
 
 ---
