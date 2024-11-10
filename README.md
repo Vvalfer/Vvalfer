@@ -8,25 +8,12 @@ Bienvenue sur mon espace GitHub ! Je suis étudiant en informatique à Paris, en
 
 ### 🛠️ Technologies et Langages Utilisés
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvalfer&bg_color=0d1117&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvalfer&langs_count=9&layout=compact&theme=dark&bg_color=0d47a1&title_color=ffffff&border_color=212121)
 
 #### 🔍 Focus sur
 - **Réalité Virtuelle & XR** : Projets utilisant Unreal Engine et Omniverse pour la création de scènes immersives.
 - **Développement Web** : Applications interactives en utilisant des technologies comme Babylon.js et Flutter.
 - **Modélisation 3D** : Scènes 3D et animations créées avec Unreal Engine.
-
----
-
-### 📈 Statistiques de Langages
-
-- **C++**: 25.35%
-- **Dart (Flutter)**: 22.47%
-- **JavaScript**: 18.75%
-- **Java**: 16.2%
-- **Python**: 12.33%
-- **Autres**: 4.9%
-
-*Basé sur mes contributions et projets récents.*
 
 ---
 
