@@ -18,7 +18,7 @@ Bienvenue sur mon espace GitHub ! Je suis étudiant en informatique à Paris, en
 ---
 
 ### 🌟 Projets Majeurs
-- **StormPass** : Une application de gestion de mots de passe sécurisée avec une interface moderne inspirée de Doctolib.
+- **StormPass** : Une application de gestion de mots de passe sécurisée avec une interface moderne.
 - **Globe 3D Interactif** : Une scène 3D animée en Babylon.js, avec visionnage VR et images 360°.
 - **Simulation XR** : Environnement de réalité virtuelle réaliste développé sous Unreal Engine, utilisant la photogrammétrie.
 
