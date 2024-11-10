@@ -8,7 +8,7 @@ Bienvenue sur mon espace GitHub ! Je suis étudiant en informatique à Paris, en
 
 ### 🛠️ Technologies et Langages Utilisés
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvalfer&langs_count=5&bg_color=0d1117&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvalfer&bg_color=0d1117&theme=dark)
 
 #### 🔍 Focus sur
 - **Réalité Virtuelle & XR** : Projets utilisant Unreal Engine et Omniverse pour la création de scènes immersives.
