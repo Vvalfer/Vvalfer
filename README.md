@@ -1,4 +1,4 @@
-# Louis Chevalier
+# Louis
 
 👨‍💻 Développeur en formation - Passionné de technologies immersives et de développement 3D
 
