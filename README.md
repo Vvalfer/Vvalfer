@@ -12,7 +12,7 @@ Bienvenue sur mon espace GitHub ! Je suis étudiant en informatique à Paris, en
 
 ---
 
-#### 🔍 Focus sur
+### 🔍 Focus sur
 - **Réalité Virtuelle & XR** : Projets utilisant Unreal Engine et Omniverse pour la création de scènes immersives.
 - **Développement Web** : Applications interactives en utilisant des technologies comme Babylon.js et Flutter.
 - **Modélisation 3D** : Scènes 3D et animations créées avec Unreal Engine.
