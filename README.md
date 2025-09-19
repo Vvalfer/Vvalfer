@@ -2,7 +2,7 @@
 
 # 👨‍💻 Developer in Training - Passionate About Immersive Technologies and 3D Development  
 
-Welcome to my GitHub space! I am a computer science student in Paris, doing an apprenticeship at Constellium as an XR and mobile developer. Here, you will find my projects related to virtual reality, mobile applications, web development, and more.  
+Welcome to my GitHub space! I am a computer science student in Paris, doing an apprenticeship at Dassault System as an XR Project Manager. Here, you will find my projects related to virtual reality, mobile applications, web development, and more.  
 
 ---  
 
